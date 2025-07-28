@@ -1,5 +1,8 @@
 PROVA_FINALE_POWERBI
-POWERBI Analisi Dataset OlistStore composto dalle seguenti tabelle: • olist_orders_dataset
+
+POWERBI Analisi Dataset OlistStore composto dalle seguenti tabelle:
+
+• olist_orders_dataset
 
 • olist_order_items_dataset
 
